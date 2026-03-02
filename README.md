@@ -47,4 +47,4 @@ If you use this work or find it helpful for your research, please cite the **UIS
 
 * Xiaoan Liu - University of Colorado
 * Mar Gonzalez-Franco - Google
-* Zhutian Cheng - University of Minnesota
+* Zhu-Tian Chen - University of Minnesota
